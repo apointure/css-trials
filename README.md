@@ -1,0 +1,1 @@
+This repos contains some CSS trials and exercises

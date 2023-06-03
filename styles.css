@@ -1,0 +1,42 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.odd {
+    background-color: pink;
+    font-family: verdana, "DejaVu Sans", sans-serif ;
+
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif
+}
+
+.Bone {
+    background-color: black;
+    color: white;
+}
+
+.Btwo {
+    background-color: yellow;
+}
